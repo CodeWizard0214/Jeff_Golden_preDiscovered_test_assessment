@@ -4,7 +4,7 @@
 The project is built on Node.js version 20.
 
 ## Deployed Application URL
-You can access the deployed application at [https://pre-discovered-test-assessment.vercel.app/](https://pre-discovered-test-assessment.vercel.app/)
+You can access the deployed application at [https://jeff-golden-pre-discovered-test-assessment.vercel.app/](https://jeff-golden-pre-discovered-test-assessment.vercel.app/)
 
 ## Functions and Features
 

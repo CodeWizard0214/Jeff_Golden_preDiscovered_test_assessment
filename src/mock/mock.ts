@@ -3,25 +3,25 @@ import { DashboardDataType } from "@/utils/types";
 export const DASHBOARD_DATA: DashboardDataType = {
   DOUGHNUT_DATA: [
     {
+      label: "Employee ",
+      value: "18",
+    },
+    {
       label: "Litigation",
       value: "25",
     },
     {
-      label: "intellectuality",
+      label: "Intellect",
       value: "25",
     },
     {
-      label: "Regulatory",
+      label: "Regular",
       value: "25",
     },
     {
       label: "Internal",
       value: "14",
     },
-    {
-      label: "Employment",
-      value: "18",
-    }
   ],
   HORIZONTAL_CHART_DATA: {
     labels: ['Jacob Jones', 'Ralph Edwards', 'Jacob Jones', 'Floyd Miles', 'Jacob Jones'],
