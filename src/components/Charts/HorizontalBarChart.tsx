@@ -106,7 +106,7 @@ const HorizontalBarChart = (props: HorizontalbarChartProp) => {
       setChartOptions({ ...tempOpt });
       setChartData({ ...tempData });
     }
-  }, []);
+  }, [chartData, chartOptions]);
 
   const horizontalBarTrack = {
     id: "horizontalBarTrack",
